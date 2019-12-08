@@ -1,6 +1,6 @@
 img {
-  width: 20%;
-  height: 20%;
+  width: 150px;
+  height: 200px;
 }
 
 .block {
@@ -24,10 +24,10 @@ img {
   width: 60%;
 }
 
-img:hover{
+/* img:hover{
   transform: scale(2);
   transition: .7s;
-}
+} */
 
 .jumbotron {
   background-image: url('https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/11/01062729/Cosmic-Eclipse-Set-Logo.jpg');
@@ -43,4 +43,5 @@ img:hover{
   width: 50px;
   border-radius: 50%;
   color: black;
+  height: 25%
 }
